@@ -6,7 +6,7 @@ img {
 }
 
 .nemo {
-  margin: 120px;
+  margin: 12px;
   border: 10px solid purple;
   padding: 40px;
   background-color: green;
@@ -21,4 +21,21 @@ img {
   font-size: 50px;
   color: red;
   margin: auto;
+}
+
+.sidebar {
+  float: left;
+  background-color: pink;
+  width: 30%;
+  margin: 40px;
+}
+
+.bear {
+  width: 300px;
+  float: left;
+}
+
+.wrap {
+  width: 100%;
+  float: left;
 }
