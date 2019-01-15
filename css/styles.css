@@ -1,0 +1,24 @@
+img {
+  width: 60%;
+  border: 10px solid orange;
+  padding: 4px;
+  float: right;
+}
+
+.nemo {
+  margin: 120px;
+  border: 10px solid purple;
+  padding: 40px;
+  background-color: green;
+}
+
+.a_class {
+  font-size: 25px;
+  margin: 100px;
+}
+
+.title {
+  font-size: 50px;
+  color: red;
+  margin: auto;
+}
